@@ -1,0 +1,4 @@
+__pycache__/
+geckodriver.log
+pvoutput_user_info.py
+data/*
